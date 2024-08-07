@@ -15,9 +15,9 @@ Offers feedback on missing criteria
 ## Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/password-checker.git
+git clone https://github.com/FollyBoris/PRODIGY_INTERSHIP_TASK3.git
 #Navigate to the project directory:
-cd password-checker
+cd PRODIGY_INTERSHIP_TASK3
 ```
 ## Usage
 To use the password checker tool, run the following command in your terminal:
